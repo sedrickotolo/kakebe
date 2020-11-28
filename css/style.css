@@ -88,6 +88,17 @@ font-family: 'Roboto', sans-serif;*/
 
  ***/
 
+
+ #help_slides h1,div{
+	 color: #000;
+ }
+.soon{
+	color:#ffffff;
+}
+ #txt_color{
+	 color: #000;
+ }
+
 body {
 	font-family: 'Poppins', sans-serif;
 	font-size:14px;
